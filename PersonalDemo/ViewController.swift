@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("第二次上传")
         print("我是分支dev")
+        print("我是tag1")
     }
 
 
